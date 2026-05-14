@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Mah Rukh Fatima 👋
 
-<!--
-**MahRukhFatima/mahrukhfatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Masters in Project Management  
+🎓 BS in Computer Science  
+📖 PMP Certification in Progress (Expected Completion: September 2026)
+📍 Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Computer Science graduate currently specializing in Project Management with experience in:
+
+- Research & Thesis Work
+- Agile Project Management
+- Social Media Management
+- Project Coordination
+- Documentation & Reporting
+- Graphic Designing
+
+I enjoy combining technology, management, creativity, and research to contribute to impactful projects and continuous learning.
+
+---
+
+## Skills
+
+### Technical & Research Skills
+- HTML & CSS Basics
+- Research Analysis
+- Presentation Development
+- MS Office & Canva
+
+### Project Management Skills
+- Agile Practices
+- Team Coordination
+- Scheduling & Planning
+- Project Documentation
+- Reporting
+
+### Digital Marketing Skills
+- Social Media Management
+- Content Planning
+- SEO Basics
+- Meta Ads
+- Brand Coordination
+- Graphic Designing
+
+---
+
+## Currently Learning
+
+- PMP Certification
+- Agile Project Management
+- GitHub Workflow
+- Digital Strategy
+- Project Coordination
+
+---
+
+## Projects
+**Thesis Research**
+**Achieving Customer Focus and Quality Excellence Through Agile Leadership and Practices: The Contingent Role of Market Turbulence**
+
+- Quantitative Research
+- SEM Analysis
+- Agile Leadership Framework
+
+### Digital Marketing Projects
+Worked on:
+- Social media content planning
+- Brand coordination
+- Campaign management
+- Content scheduling
+
+---
+Always learning and growing professionally.
